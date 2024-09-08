@@ -1,0 +1,6 @@
+destinationFolder=/usr/local/MATLAB/R2022b
+fileInstallationKey=your_file_installation_key
+agreeToLicense=yes
+outputFile=/tmp/matlab_install_log.txt
+licensePath=/usr/local/MATLAB/license.lic
+mode=silent
